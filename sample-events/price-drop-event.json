@@ -1,0 +1,15 @@
+{
+  "eventId": "7f3c9a2e-4b1d-4e8a-9c2f-1a2b3c4d5e6f",
+  "correlationId": "c1a4e8f0-2d3b-4c5a-8e9f-0a1b2c3d4e5f",
+  "eventType": "MARKET_PRICE_CHANGED",
+  "source": "market-data-simulator",
+  "schemaVersion": 1,
+  "occurredAt": "2026-10-18T09:15:00Z",
+  "payload": {
+    "isin": "CH0012345678",
+    "assetClass": "EQUITY",
+    "previousPrice": 100.00,
+    "newPrice": 85.00,
+    "currency": "CHF"
+  }
+}
